@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: yo61-logrotate
+Source: https://forge.puppetlabs.com/yo61/logrotate
+
+Files: *
+Copyright: 2012 Tim Sharpe <>
+License: MIT
+
+Files: debian/*
+Copyright: 2016 EDF
+License: GPL-2
