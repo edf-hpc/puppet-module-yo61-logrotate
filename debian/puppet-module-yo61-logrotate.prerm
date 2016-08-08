@@ -1,5 +1,5 @@
 #!/bin/sh
-# prerm script for puppet-module-puppetlabs-apt
+# prerm script for puppet-module-yo61-logrotate
 #
 # see: dh_installdeb(1)
 
