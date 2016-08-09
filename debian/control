@@ -8,7 +8,7 @@ Homepage: https://forge.puppet.com/yo61/logrotate
 
 Package: puppet-module-yo61-logrotate
 Architecture: all
-Depends: ${misc:Depends}, puppet-common
+Depends: ${misc:Depends}, puppet-common, puppet-module-puppetlabs-stdlib
 Description: Puppet module logrotate
  Puppet lets you centrally manage every important aspect of your system
  using a cross-platform specification language that manages all the
